@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afe1ebba-c22b-4aac-925a-0dfa730ab875" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1huQM6SlztWAqzJ8gKJilbmu3tv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/pages/sales" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\newiconplus\resources\views\pages\sales" />
+      <recent name="C:\xampp\htdocs\newiconplus\app\Http\Controllers\Sales" />
+      <recent name="C:\xampp\htdocs\newiconplus\app\Rules\SalesRules" />
+      <recent name="C:\xampp\htdocs\newiconplus\resources\views\pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afe1ebba-c22b-4aac-925a-0dfa730ab875" name="Default Changelist" comment="" />
+      <created>1600858447227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600858447227</updated>
+      <workItem from="1600858448236" duration="4973000" />
+      <workItem from="1600915904976" duration="1598000" />
+      <workItem from="1601072572893" duration="4109000" />
+      <workItem from="1601103236201" duration="10183000" />
+      <workItem from="1601124496693" duration="1846000" />
+      <workItem from="1601134916587" duration="4130000" />
+      <workItem from="1601188228720" duration="6616000" />
+      <workItem from="1601204884684" duration="2620000" />
+      <workItem from="1601293443543" duration="3922000" />
+      <workItem from="1601466536375" duration="202000" />
+      <workItem from="1601466910073" duration="3964000" />
+      <workItem from="1602469336643" duration="1743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1601297166534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601297166534" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1601206322741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1601206322741" />
+    <state x="526" y="125" key="refactoring.ChangeSignatureDialog" timestamp="1601107067928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="125" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1601107067928" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1600874526323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1600874526323" />
+  </component>
+</project>
